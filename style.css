@@ -29,13 +29,13 @@ main{
  .photo{
     width: 100%;
     flex: 1;
-     border: 2px solid red;
+    
  }
 
  .writings{
     width: 50%;
     flex: 1;
-     border: 2px solid blue;
+     
      font-family: 'Poppins', sans-serif;
  }
 
@@ -119,9 +119,25 @@ main{
     align-items: center;
     background-color: #2175F5;
     color:aliceblue;
-    padding:auto;
+    padding:30px;
     height: 50px;
     width: 200px;
     font-weight: 600;
-    
+    font-size: 17px;
+
  }
+
+ .ücret{
+    display: flex;
+    font-size: 28px;
+    font-weight: 600;
+    color: black;
+    margin-right: 40px;
+ }
+
+ @media  screen and (max-width: 500px) {
+    main{ width: 300px;}
+
+ }
+    
+ 
