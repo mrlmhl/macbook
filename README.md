@@ -1,3 +1,3 @@
 # macbook
-media queries ile yapıldı.
+media queries..
 https://mrlmhl.github.io/macbook/
